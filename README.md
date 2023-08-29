@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BNedjm&show_icons=true&theme=default&border_radius=6&hide_title=true&card_width=450&custom_title=GitHub%20Stats#gh-light-mode-only)](https://github.com/BNedjm/github-readme-stats#gh-light-mode-only)&nbsp;&nbsp;&nbsp;
 [![GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BNedjm&theme=default&border_radius=6&langs_count=6&layout=compact&card_width=380#gh-light-mode-only)](https://github.com/BNedjm/github-readme-stats#gh-light-mode-only)
 <br>
-![Github Profile Views](https://komarev.com/ghpvc/?username=bnedjm&style=flat)
+![Github Profile Views](https://komarev.com/ghpvc/?username=bnedjm&color=3572a5&style=flat)
